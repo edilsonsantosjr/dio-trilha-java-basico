@@ -7,13 +7,6 @@ import java.util.Scanner;
 public class ContaTerminal {
 
     public static void main(String[] args) {
-        //TODO:
-
-        //Conhecer e importar a classe Scanner
-
-        //Obter pela scanner os valores digitados
-
-        //Exibir a mensagem conta criada
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
